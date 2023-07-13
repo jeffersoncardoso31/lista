@@ -2,5 +2,5 @@
 ## Nessa lista, ao clicar em cima do nome irá ser riscado, indicando que ja foi feito ou comprado, para no final ter certeza que foi colocado na lista e feito. Também é possível excluir um item da lista, caso se arrependa, clicando na lixeirinha ao lado do nome.
 
 
-<a href="https://jeffersoncardoso31.github.io/lista/"><img width="300px" src = "./static/media/lista.gif"></a>
+<a href="https://jeffersoncardoso31.github.io/lista/" target="_blank"><img width="300px" src = "./static/media/lista.gif"></a>
 <p>Click na imagem para ser redirecionado para o teste !!!</p>
